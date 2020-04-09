@@ -1,0 +1,55 @@
+<html>
+<head>
+<style>
+.Parse {color:#076DB4}
+</style>
+<meta charset="utf-8">
+<title>Gintama Wiki</title>
+</head>
+<body background="https://images6.alphacoders.com/867/867695.png">
+<p><h1 class="Parse" id="1">BIENVENIDO A LA FAN PAGE DE GINTAMA</h1></p>
+<p><h3 class="Parse">En esta página web hablaré sobre el anime, personajes, el estudio de animación y el manga.</h3></p><br>
+<a href="#a">Introducción</a><br>
+<a href="#b">Historia</a><br>
+<a href="#c">Personajes</a><br>
+<a href="#d">Sunrise</a><br>
+<a href="#e">Manga</a><br>
+<p><h2 id="a">Introducción</h2></p>
+<p><h3><a href="https://es.wikipedia.org/wiki/Gintama"><em>Gintama</em></a> es un anime/manga de tipo shonen, es decir dirigido a un público joven. Los géneros son: comedia, acción y drama, lo que más destaca del anime es su humor, muy absurdo y negro, y las innumerables parodias a otros animes. El anime consta de 367 capítulos, 21 de ellos son de <a href="https://animerelleno.com/animes/gintama">relleno</a>, y está dividido en 8 temporadas.</p></h3><img src="https://38.media.tumblr.com/fef3bfb669d2b1c0aa72e813bd6618a6/tumblr_nn7m2zACW01sms57ko2_540.gif"><br>
+<h2 id="b">Historia</h2>
+<p><h3>En <em>Gintama</em> te cuentan las aventuras de la Yorozuya, compuesta por 3 personas muy peculiares y un perro, ellos se encargan de hacer cualquier cosa que les pidan, desde encontrar a un gato perdido a matar a un alienígena. Esta historia se sitúa en Edo, concretamente en el distrito Kabuki que es donde se encuentra la Yorozuya. Hace 10 años hubo una guerra contra los Amanto que son una raza alienígena con características físicas de animales. Dicha guerra fue ganada por los Amanto con la colaboración de un shogunato corrupto que es la forma de gobierno de la época. Aunque se haya modernizado la ciudad con grandes edificios, viajes espaciales y demás, muchos exsamuráis llamados Jouishishi esperan dar un golpe de estado, éstos tienen sus riñas con la policía que está bajo el mando del shogun, el Shinsengumi.</h3></p><br>
+<h2 id="c">Personajes</h2>
+<h2>Yorozuya</h2>
+<ul><li><h3>Sakata Gintoki</h3></li><img src="https://vignette.wikia.nocookie.net/gintama/images/5/5a/Sakata_gintoki_ova.png/revision/latest/scale-to-width-down/340?cb=20150407002403&path-prefix=es">
+<li><h3>Kagura</h3></li><img src="https://vignette.wikia.nocookie.net/gintama/images/e/e7/Kagura_ova.png/revision/latest/scale-to-width-down/340?cb=20150407002725&path-prefix=es">
+<li><h3>Shimura Shinpachi</h3></li><img src="https://vignette.wikia.nocookie.net/gintama/images/9/93/Shimura_shimpachi_ova.png/revision/latest/scale-to-width-down/340?cb=20150407010500&path-prefix=es">
+<li><h3>Sadaharu</h3></li><img src="https://vignette.wikia.nocookie.net/gintama/images/4/48/Sadaharu_mug.jpg/revision/latest/scale-to-width-down/340?cb=20110921172540&path-prefix=es"></ul>
+<h2>Shinsengumi</h2>
+<ul><li><h3>Kondo Isao</h3></li><img src="https://pm1.narvii.com/6185/374cab9a62c943d767aced1e97146b8381d61968_00.jpg">
+<li><h3>Hijikata Toshiro</h3></li><img src="https://vignette.wikia.nocookie.net/gintama/images/5/58/Hijikata_.png/revision/latest/scale-to-width-down/340?cb=20180609235010&path-prefix=es">
+<li><h3>Okita Sougo</h3></li><img src="https://vignette.wikia.nocookie.net/gintama/images/b/ba/Sougo_Okita_.png/revision/latest/scale-to-width-down/340?cb=20180609050007&path-prefix=es">
+<li><h3>Yamazaki Sagaru</h3></li><img src="https://vignette.wikia.nocookie.net/gintama/images/4/4f/Yamazaki_parte_2.png/revision/latest/scale-to-width-down/340?cb=20150526214159&path-prefix=es"></ul>
+<h2>Jouishishi</h2>
+<ul><li><h3>Kotarou Katsura</h3></li><img src="https://pm1.narvii.com/5872/fd6d12ca085730d21715dea0a2c589e8b878a074_00.jpg">
+<li><h3>Elizabeth</h3></li><img src="https://vignette.wikia.nocookie.net/gintama/images/d/d9/Elizabeth.png/revision/latest/scale-to-width-down/340?cb=20140617224915&path-prefix=es"></ul><br>
+<p><h3>Hay más personajes importantes pero no voy a llenar esto de imágenes.</h3></p><br>
+<h2 id="d">Sunrise</h2>
+<p><h3>Es el estudio de animación encargado de <em>Gintama</em>, que ha hecho importantes obras como son: Code Geass, Gundam, Love Live! e Inuyasha.</h3></p><br>
+<h2 id="e">Manga</h2>
+<p><h3>El Manga consta de 704 capítulos divididos en 77 volúmenes, comenzó en Diciembre de 2003 y su última publicación fue el 17 de Junio del 2019. El mangaka creador de Gintama es Hideaki Sorachi.</h3></p><img src="https://en-news.qoo-app.com/wp-content/uploads/sites/3/2017/07/17071305490869.jpg"><br>
+<p><h1>¡Muchas gracias por su visita! Por aquí le dejo un formulario a rellenar:</h1></p>
+<form action="ejemplo.php" method="get">
+  <p>Nombre: <input type="text" name="nombre" size="40"></p>
+  <p>Año de nacimiento: <input type="number" name="nacido" min="1900"></p>
+  <p>Sexo:
+    <input type="radio" name="hm" value="h"> Hombre
+    <input type="radio" name="hm" value="m"> Mujer
+  </p>
+  <p>
+    <input type="submit" value="Enviar">
+    <input type="reset" value="Borrar">
+  </p>
+</form>
+<a href="#1">Inicio</a>
+</body>
+</html>
